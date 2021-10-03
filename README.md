@@ -6,7 +6,7 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 To learn more about our project and check the water quality, please visit: https://pure-74236.web.app/home
 
-You can also check our presentation clicking on the YouTube link or by clicking on the image below: https://youtu.be/qcbrNMZhIL4
+You can also check our presentation YouTube by clicking on the image below:
 
 [![capa_pure](/images/capa_pure.jpeg)](https://youtu.be/qcbrNMZhIL4)
 
@@ -110,6 +110,15 @@ You can check more details at: https://pure-74236.web.app/home
 
 
 ## Resources
+* [World Health Organization and UNICEF article regarding safe water comsumption](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who) 
+* [UNICEF article regarding unsafe water comsumption](https://www.unicef.org/wash/water)
+* [NASA's Water Quality Data Pathfinder](https://earthdata.nasa.gov/learn/pathfinders/water-quality-data-pathfinder)
+* [Sentinel 2 satellite imagery Article](https://medium.com/eelab/how-to-rank-the-most-polluted-water-body-in-city-using-sentinel-2-satellite-imagery-via-google-792685105bfd)
+* [European Space Agency Sentinel-2 L1 images Collection](https://discovery.creodias.eu/dataset/sentinel-2-l1-collection)
+* [IBM Cloud](https://www.ibm.com/cloud)
+* [Watson Studio](https://www.ibm.com/cloud/watson-studio)
+* [Watson Machine Learning](https://www.ibm.com/br-pt/cloud/machine-learning)
+* [Watson IoT Cloud](https://www.ibm.com/cloud/internet-of-things)
 
 
 
