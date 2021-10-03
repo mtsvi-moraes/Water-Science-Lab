@@ -6,9 +6,9 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 To learn more about our project and check the water quality, please visit: https://pure-74236.web.app/home
 
-You can also check our presentation on YouTube or click on the image below: https://youtu.be/qcbrNMZhIL4
+You can also check our presentation clicking on the YouTube link or by clicking on the image below: https://youtu.be/qcbrNMZhIL4
 
-![/images/capa_pure.jpeg](https://youtu.be/qcbrNMZhIL4)
+[![capa_pure](/images/capa_pure.jpeg)](https://youtu.be/qcbrNMZhIL4)
 
 
 ## Description:
@@ -18,7 +18,7 @@ You can also check our presentation on YouTube or click on the image below: http
 Today, while scientific advancements are made daily, analyzing water quality is not a simple task. Researchers must travel to the region and collect individual samples. After which, the samples must then be  transported to a qualified laboratory where testing can be performed. Each of these crucial steps increase the time and monetary value spent on the expedition making it more difficult to receive funding and consequently alert the population.
 Taking all of this into account, we developed SpecWater, a solution that aims to facilitate this process and improve access to safer water sources in all regions and in real time, for all humanity.
 
-SpecWater uses Artificial Intelligence that analyzes the spectrum of light within a water sample collected by an IoT (a small equipment installed in rivers and lakes). After the analysis, results will be made available on an easily accessible website. Expanded functions such as the ability to trigger an alert via SMS, will also be available. When a water quality alert is sent, it will allow the population to be able to check the quality of the community source and view whether it has been contaminated, or if it’s safe to consume. Instructions regarding a separate source of drinking water will be provided if the community source tests confirm contamination thus, avoiding infant mortality, the human immunodeficiency virus, which is often found in contaminated water and several other serious health and nutrition problems. The responsible authorities will also be immediately alerted to take action and provide further assistance to the local population.</p>
+Pure uses Artificial Intelligence that analyzes the spectrum of light within a water sample collected by an IoT (a small equipment installed in rivers and lakes). After the analysis, results will be made available on an easily accessible website. Expanded functions such as the ability to trigger an alert via SMS, will also be available. When a water quality alert is sent, it will allow the population to be able to check the quality of the community source and view whether it has been contaminated, or if it’s safe to consume. Instructions regarding a separate source of drinking water will be provided if the community source tests confirm contamination thus, avoiding infant mortality, the human immunodeficiency virus, which is often found in contaminated water and several other serious health and nutrition problems. The responsible authorities will also be immediately alerted to take action and provide further assistance to the local population.</p>
 
 
 ### What is the problem?
