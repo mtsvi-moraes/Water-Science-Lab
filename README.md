@@ -119,7 +119,7 @@ You can check more details at: https://pure-74236.web.app/home
 * [Sentinel 2 satellite imagery Article](https://medium.com/eelab/how-to-rank-the-most-polluted-water-body-in-city-using-sentinel-2-satellite-imagery-via-google-792685105bfd)
 * [Sentinel 2 Technical Guide](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi)
 * [European Space Agency Sentinel-2 L1 images Collection](https://discovery.creodias.eu/dataset/sentinel-2-l1-collection)
-* [European Space Agency - Sentinel Data Access Overview] (https://sentinel.esa.int/web/sentinel/sentinel-data-access)
+* [European Space Agency - Sentinel Data Access Overview](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
 * [IBM Cloud](https://www.ibm.com/cloud)
 * [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 * [Watson Machine Learning](https://www.ibm.com/br-pt/cloud/machine-learning)
