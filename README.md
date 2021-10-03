@@ -6,7 +6,7 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 To learn more about our project and check the water quality, please visit: https://pure-74236.web.app/home
 
-You can also check our presentation YouTube by clicking on the image below:
+You can also check our presentation on YouTube by clicking on the image below:
 
 [![capa_pure](/images/capa_pure.jpeg)](https://youtu.be/qcbrNMZhIL4)
 
