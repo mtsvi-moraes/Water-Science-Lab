@@ -47,7 +47,7 @@ In addition, the system will issue an alert for responsible authorities to take 
 1. [Description](#Description)
 2. [Architecture](#Architecture)
 5. [Development](#Development)
-6. [Resources](#Resources)
+6. [Resources and External Links](#Resources-and-External-links)
 7. [About us](#About-us)
 8. [License](#license)
 
@@ -110,7 +110,7 @@ You can check more details at: https://pure-74236.web.app/home
 #### Consequently creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of the observed water
 
 
-## Resources
+## Resources and External links:
 * [World Health Organization and UNICEF article regarding safe water comsumption](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who) 
 * [UNICEF article regarding unsafe water comsumption](https://www.unicef.org/wash/water)
 * [NASA's Water Quality Data Pathfinder](https://earthdata.nasa.gov/learn/pathfinders/water-quality-data-pathfinder)
