@@ -1,0 +1,57 @@
+Return-Path: <7pedro.ivo@gmail.com>
+Received: from localhost (localhost [127.0.0.1])
+	by ns2.aubay.com (Postfix) with ESMTP id D730542BE3
+	for <dcabo@aubay.com>; Mon, 26 Jul 2021 16:29:34 +0200 (CEST)
+X-Spam-Flag: NO
+X-Spam-Score: -1.699
+X-Spam-Level:
+X-Spam-Status: No, score=-1.699 tagged_above=-9999 required=5
+	tests=[BAYES_00=-1.9, DKIM_INVALID=0.1, DKIM_SIGNED=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_MSPIKE_H2=-0.001, SPF_HELO_NONE=0.001, SPF_PASS=-0.001]
+	autolearn=no autolearn_force=no
+Received: from ns2.aubay.com ([127.0.0.1])
+	by localhost (ns2.aubay.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id p7jhdHliHrYc for <dcabo@aubay.com>;
+	Mon, 26 Jul 2021 16:29:29 +0200 (CEST)
+Received: from mail-il1-f175.google.com (mail-il1-f175.google.com [209.85.166.175])
+	by ns2.aubay.com (Postfix) with ESMTP id 9D54942BA0
+	for <dcabo@aubay.com>; Mon, 26 Jul 2021 16:29:26 +0200 (CEST)
+Received: by mail-il1-f175.google.com with SMTP id l11so9097799iln.4
+        for <dcabo@aubay.com>; Mon, 26 Jul 2021 07:29:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=Yy4Q9Dd/CsBxMRRZwvKZbwGxMwJg1kQhbFwr5bCUGro=;
+        b=a1TH3/V1YksAY5OeRbfF9vrQR30cIzqQiKET5dPapBxlqslS1OiZUGP7qGjSDuPJI+
+         umkr0gNYEiO5pYsU1PNLECSwdUsWflw/MTDwCAqQ68FzNItlBq4PAm9L+n0m8HaqiMJt
+         mNPaq1F1Ii52+yswd1eISEmyZaaOsplgUWV3ic2vP3wWihyV4rBVnV556BnefKEMsV3F
+         YlLIK0n5t2eKxX86MM+ojMt38Hw5Lo4/psXnwzB8WEncSz7lK8iF6PuLwfRcBrYilBYa
+         GbbmdpGS89RZpXz1NhWfk0/5I3EJILol2/h0nucKPKN5y0N4/WR3UN7lVj1ON/Zy4bfm
+         nxUw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=Yy4Q9Dd/CsBxMRRZwvKZbwGxMwJg1kQhbFwr5bCUGro=;
+        b=Rr4bKuY0KPPffBdRB5m05aAuh7lxUZdRktyPx4FXLsSkWvFsVh2Fts8UZcITXA2qjz
+         O7iBPS6jqG9ch2NqbikJ4AWsWCbD1a+aN82Cn4XLxLQjBthAByb5Chvt2EiZtQSNiQib
+         M8fFUrRFwurs/reLiTCgleBr9zhMHIFO5+ub9BNqXMm/M/NZJzsI5UOQz9f4wL4dQgpp
+         nfXmqRZ8dHg3SMcxUGey9wWSrbLRvABz2DUWw614K3YTjD/3aTqFG/qFVVMhbRnAeTze
+         uk0v7o4uAqe7CkRWExwVjejoUzYg4ml8vrvvAXH+T7CgE/qPXAKdraVQNQlxPcve8UjZ
+         U3Gg==
+X-Gm-Message-State: AOAM531TVj0bhm7uG5+i5ZKEhVTU/6bD8UxrgPWn1HZtXEu+Gnl2P9Rx
+	ep5i9jUJu6PLeNIbgpaj/TJXkxwIbMLnwUI8QQU++LgG6tA=
+X-Google-Smtp-Source: ABdhPJwKU2I3PokIXiNK88SwfMsHBP5sY0Vn0A+6pimRTAnU+8WFUGdIXKI7/rTM1I7A4/glpfRVxa9qQSfhO9RDFZE=
+X-Received: by 2002:a05:6e02:1d0f:: with SMTP id i15mr12356002ila.199.1627309760225;
+ Mon, 26 Jul 2021 07:29:20 -0700 (PDT)
+MIME-Version: 1.0
+References: <MR1P264MB26603346CA2D962A61AD1F13B0189@MR1P264MB2660.FRAP264.PROD.OUTLOOK.COM>
+ <E1584FB7-BAB4-4FB0-BBAE-BB7FB8025150@gmail.com>
+In-Reply-To: <E1584FB7-BAB4-4FB0-BBAE-BB7FB8025150@gmail.com>
+From: Pedro Ivo Nogueira de Medeiros <7pedro.ivo@gmail.com>
+Date: Mon, 26 Jul 2021 11:29:07 -0300
+Message-ID: <CAAUb0W79xDKcQici6e9iGGWkYQK-x2PrLj95KnHq9R7v1wKOyw@mail.gmail.com>
+Subject: Re: Proposta salarial | Pedro Medeiros
+To: Daniela CABO <dcabo@aubay.com>
+Content-Type: multipart/mixed; boundary="00000000000034771605c807940d"

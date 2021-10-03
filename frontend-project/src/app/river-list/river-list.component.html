@@ -1,0 +1,90 @@
+<div class="container-list-rivers">
+    <div class="map-container">
+        <app-map></app-map>
+    </div>
+    <div class="river-card-list">
+        <div class="search-region-list">
+            <form [formGroup]="queryRegionForm">
+
+                <div class="styled-select">
+                    <label>Country</label>
+                    <select id="ddlProducts" class="btn-drop-down" name="country" formControlName="countryFormControl">
+                        <option value="" selected data-default>Select a country</option>
+                        <option *ngFor="let country of countries" [value]="country">{{country}}</option>
+                    </select>
+                </div>
+                <div class="styled-select">
+                    <label>State</label>
+                    <select id="ddlProducts" class="btn-drop-down" name="stateRgion" formControlName="stateFormControl">
+                        <option value="" selected data-default>Select a state</option>
+                        <option *ngFor="let state of states" [value]="state">{{state}}</option>
+                    </select>
+                </div>
+            </form>
+
+        </div>
+        <div class="card-region">
+            <div class="river-data">
+                <div class="river-name">
+                    <img src="../../assets/icons/icone-gota.svg" height="25" width="25" alt="">
+                    <h1>Rio Tiete</h1>
+                </div>
+                <div class="box-data-river">
+                    <p>River size: <span>1100 km</span></p>
+                    <p>Last Checked: <span>Dec 6, 2020, 10:42:48 PM</span></p>
+                    <p>Water quality:</p>
+                </div>
+                <div class="box-level">
+                    <span class="material-icons md-16 low-quality">room</span>
+                    <img src="../../assets/images/level-water-quality.svg" height="25" width="300" alt="">
+                </div>
+            </div>
+            <div class="river-picture">
+                <img src="../../assets/images/river-tiete-sp.jpg" alt="" srcset="">
+            </div>
+        </div>
+
+        <div class="card-region">
+            <div class="river-data">
+                <div class="river-name">
+                    <img src="../../assets/icons/icone-gota.svg" height="25" width="25" alt="">
+                    <h1>Rio Pinheiros</h1>
+                </div>
+                <div class="box-data-river">
+                    <p>River size: <span>118 km</span></p>
+                    <p>Last Checked: <span>Jan 14, 2021, 14:33:21 PM</span></p>
+                    <p>Qualidade d água:</p>
+                </div>
+                <div class="box-level">
+                    <span class="material-icons md-16 medium-quality">room</span>
+                    <img src="../../assets/images/level-water-quality.svg" height="25" width="300" alt="">
+                </div>
+            </div>
+            <div class="river-picture">
+                <img src="../../assets/images/river-pinheiros-sp.jpg" alt="" srcset="">
+            </div>
+        </div>
+
+        <div class="card-region">
+            <div class="river-data">
+                <div class="river-name">
+                    <img src="../../assets/icons/icone-gota.svg" height="25" width="25" alt="">
+                    <h1>Rio Tamanduateí</h1>
+                </div>
+                <div class="box-data-river">
+                    <p>River size: <span>146 km</span></p>
+                    <p>Last Checked: <span>Feb 11, 2021, 11:36:56 PM</span></p>
+                    <p>Water quality:</p>
+                </div>
+                <div class="box-level">
+                    <span class="material-icons md-16 high-quality" >room</span>
+                    <img src="../../assets/images/level-water-quality.svg" height="25" width="300" alt="">
+                </div>
+            </div>
+            <div class="river-picture">
+                <img src="../../assets/images/river-tamanduatei-sp.jpg" alt="" srcset="">
+            </div>
+        </div>
+
+    </div>
+</div>

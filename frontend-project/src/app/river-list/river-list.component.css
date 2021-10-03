@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&family=Courier+Prime&family=Dorsa&family=Kodchasan:wght@200&family=Oswald:wght@200&family=Roboto+Mono:wght@300&family=Schoolbell&family=Alef&display=swap");
+
+.container-list-rivers {
+  height: 100%;
+}
+
+.map-container {
+  height: 600px;
+  width: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 100));
+}
+
+.river-card-list {
+  background-color: #f9fefc;
+  height: max-content;
+  padding: 10px 200px;
+}
+
+.search-region-list form {
+  display: flex;
+  flex-direction: row;
+}
+
+label {
+  display: block;
+  color: #ffff;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: inherit;
+  margin-bottom: 5px;
+}
+
+.btn-drop-down {
+  background: #fff;
+  padding: 15px 30px;
+  width: 100%;
+  border: 1.5px solid #adddf8;
+  border-radius: 5px;
+  color: #777777;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 200;
+  font-family: inherit;
+  margin-bottom: 20px;
+}
+
+#ddlProducts::-webkit-scrollbar-track {
+  background-color: #f4f4f4;
+}
+#ddlProducts::-webkit-scrollbar {
+  width: 10px;
+  background: #f4f4f4;
+}
+#ddlProducts::-webkit-scrollbar-thumb {
+  background: rgba(28, 49, 209, 0.282);
+}
+.styled-select {
+  margin-right: 20px;
+}
+
+.styled-select select {
+  -moz-appearance: none; /* Firefox */
+  -webkit-appearance: none; /* Safari and Chrome */
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg style='margin-right: 200px;position: relative;right: 5px; top: 8px' fill='grey' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 5px;
+}
+
+select option[data-default] {
+  color: rgb(163, 163, 163);
+  background-color: #fff;
+}
+
+select option {
+  width: 100%;
+  color: rgb(48, 48, 48);
+  padding: 10px;
+}
+
+.card-region {
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background: #fdfdfd;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 13px;
+  margin-bottom: 20px;
+}
+
+.river-data {
+  width: 40%;
+  padding: 15px 25px;
+}
+
+.river-picture {
+  width: 60%;
+
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
+
+.river-picture img {
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-top-right-radius: 13px;
+  border-bottom-right-radius: 13px;
+}
+
+.river-name {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  margin-left: -5px;
+  margin-bottom: 10px;
+}
+
+.river-name h1 {
+  font-family: "Roboto Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  color: #3d657a;
+  height: 15px;
+}
+
+.box-data-river {
+}
+
+.box-data-river p {
+  color: rgb(58, 58, 58);
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.box-data-river span {
+  color: rgb(58, 58, 58);
+  font-family: "Kodchasan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.box-level {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  position: relative;
+  bottom: 20px;
+}
+
+.low-quality {
+  position: relative;
+  left: 230px;
+  bottom: -10px;
+  color: coral;
+}
+
+.medium-quality {
+  position: relative;
+  left: 140px;
+  bottom: -10px;
+  color: coral;
+}
+
+.high-quality {
+  position: relative;
+  left: 45px;
+  bottom: -10px;
+  color: coral;
+}
+
+@media screen and (max-width: 500px) {
+  .map-container {
+    height: 300px;
+    width: 100%;
+  }
+
+  .river-card-list {
+    background-color: #f9fefc;
+    height: max-content;
+    padding: 10px 5px;
+  }
+
+  .search-region-list {
+    width: 100%;
+    padding: 10px 10px;
+  }
+
+  .river-name {
+    width: inherit;
+  }
+
+  .river-name h1 {
+    min-width: max-content;
+    padding-left: 5PX;
+  }
+
+  .box-data-river p {
+    color: rgb(58, 58, 58);
+    font-family: "Kodchasan";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 5px;
+  }
+
+  .box-data-river span {
+  
+    font-size: 12px;
+
+  }
+
+  .river-data div img {
+    height: 20px;
+    width: 180px;
+  }
+
+  .box-level {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    position: relative;
+    bottom: 15px;
+  }
+  
+  .low-quality {
+    position: relative;
+    left: 140px;
+    bottom: -10px;
+    color: coral;
+  }
+  
+  .medium-quality {
+    position: relative;
+    left: 80px;
+    bottom: -10px;
+    color: coral;
+  }
+  
+  .high-quality {
+    position: relative;
+    left: 20px;
+    bottom: -10px;
+    color: coral;
+  }
+}
