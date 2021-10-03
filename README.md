@@ -113,6 +113,8 @@ You can check more details at: https://pure-74236.web.app/home
 ## Resources and External links:
 * [World Health Organization and UNICEF article regarding safe water comsumption](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who) 
 * [UNICEF article regarding unsafe water comsumption](https://www.unicef.org/wash/water)
+* [Pioneering Tool to Monitor Water Quality](https://landsat.gsfc.nasa.gov/article/unesco-launches-pioneering-tool-monitor-water-quality)
+* [ARSET - Integrating Remote Sensing into a Water Quality Monitoring Program](https://appliedsciences.nasa.gov/join-mission/training/english/arset-integrating-remote-sensing-water-quality-monitoring-program)
 * [NASA's Water Quality Data Pathfinder](https://earthdata.nasa.gov/learn/pathfinders/water-quality-data-pathfinder)
 * [NASA's LAADS (Level-1 and Atmosphere Archive & Distribution System)](https://ladsweb.modaps.eosdis.nasa.gov/search/order/4/CLDPROP_L2_MODIS_Aqua--5111/2021-09-17..2021-10-01/DB/Site:300,376)
 * [Sentinel 2 info](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
