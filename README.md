@@ -117,10 +117,7 @@ You can check more details at: http://specwater.web.app
 
 ## Resources
 
-- [IBM Cloud](https://www.ibm.com/cloud)
-- [Watson Studio](https://www.ibm.com/cloud/watson-studio)
-- [Watson Machine Learning](https://www.ibm.com/br-pt/cloud/machine-learning)
-- [Watson IoT Cloud](https://www.ibm.com/cloud/internet-of-things)
+
 
 ## About us
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
