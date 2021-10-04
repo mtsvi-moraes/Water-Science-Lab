@@ -137,9 +137,6 @@ You can check more details at: https://pure-74236.web.app/home
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 * [Pedro Ivo](https://github.com/P-dro), IT Specialist
 
-<p>
-  <img src="https://contributors-img.web.app/image?repo=mtsvi-moraes/Water-Science-Lab" />
-</p>
 
 ## License
 
