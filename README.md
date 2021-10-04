@@ -132,10 +132,10 @@ You can check more details at: https://pure-74236.web.app/home
 ## About us
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
-* [Pricila Sales](https://github.com/pricilanogueira), UX/UI Designer
 * [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 * [Pedro Ivo](https://github.com/P-dro), IT Specialist
+* [Pricila Sales](https://github.com/pricilanogueira), UX/UI Designer
 
 
 ## License
