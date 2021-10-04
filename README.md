@@ -8,7 +8,7 @@ To learn more about our project and check the water quality, please visit: https
 
 You can also check our presentation on YouTube by clicking on the image below:
 
-[![capa_pure](/images/capa_pure.jpeg)](https://www.youtube.com/watch?v=7esA616AtBg)
+[![capa_pure](/images/capa_pure2.jpeg)](https://www.youtube.com/watch?v=7esA616AtBg)
 
 
 ## Description:
@@ -132,7 +132,7 @@ You can check more details at: https://pure-74236.web.app/home
 ## About us
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
-* Pricila Sales, UX/UI Designer
+* [Pricila Sales](https://github.com/pricilanogueira), UX/UI Designer
 * [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 * [Pedro Ivo](https://github.com/P-dro), IT Specialist
