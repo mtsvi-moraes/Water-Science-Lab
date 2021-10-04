@@ -138,7 +138,7 @@ You can check more details at: https://pure-74236.web.app/home
 * [Pedro Ivo](https://github.com/P-dro), IT Specialist
 
 <p>
-  <img src="https://contributors-img.web.app/image?repo=EduardoMoraesRitter/SpecWater" />
+  <img src="https://contributors-img.web.app/image?repo=mtsvi-moraes/Water-Science-Lab" />
 </p>
 
 ## License
