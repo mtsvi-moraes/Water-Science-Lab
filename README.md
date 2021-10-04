@@ -6,9 +6,9 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 To learn more about our project and check the water quality, please visit: https://pure-74236.web.app/home
 
-You can also check our presentation YouTube by clicking on the image below:
+You can also check our presentation on YouTube by clicking on the image below:
 
-[![capa_pure](/images/capa_pure.jpeg)](https://youtu.be/qcbrNMZhIL4)
+[![capa_pure](/images/capa_pure2.jpeg)](https://www.youtube.com/watch?v=7esA616AtBg)
 
 
 ## Description:
@@ -47,7 +47,7 @@ In addition, the system will issue an alert for responsible authorities to take 
 1. [Description](#Description)
 2. [Architecture](#Architecture)
 5. [Development](#Development)
-6. [Resources](#Resources)
+6. [Resources and External Links](#Resources-and-External-links)
 7. [About us](#About-us)
 8. [License](#license)
 
@@ -100,21 +100,28 @@ We used a cognitive system applied in Watson Studio together with Watson ML to t
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
 ### Web site 
-The SpecWater website is available for desktops and mobile devices. It is possible to search the water quality by filtering the country or province where the user is located, as well as view the map where the IoT device was installed and the water sample was collected, and through a check mark, view the quality of the water and in the future receive instructions on how to treat it for consumption, until the responsible authorities take further actions.
+The Pure website is available for desktops and mobile devices. It is possible to search the water quality by filtering the country or province where the user is located, as well as view the map where the IoT device was installed and the water sample was collected, and through a check mark, view the quality of the water and in the future receive instructions on how to treat it for consumption, until the responsible authorities take further actions.
 
 You can check more details at: https://pure-74236.web.app/home
+
 ![website](/gifs/website_pure.gif)
 
 
 #### Consequently creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of the observed water
 
 
-## Resources
+## Resources and External links:
 * [World Health Organization and UNICEF article regarding safe water comsumption](https://www.who.int/news/item/18-06-2019-1-in-3-people-globally-do-not-have-access-to-safe-drinking-water-unicef-who) 
 * [UNICEF article regarding unsafe water comsumption](https://www.unicef.org/wash/water)
+* [Pioneering Tool to Monitor Water Quality](https://landsat.gsfc.nasa.gov/article/unesco-launches-pioneering-tool-monitor-water-quality)
+* [ARSET - Integrating Remote Sensing into a Water Quality Monitoring Program](https://appliedsciences.nasa.gov/join-mission/training/english/arset-integrating-remote-sensing-water-quality-monitoring-program)
 * [NASA's Water Quality Data Pathfinder](https://earthdata.nasa.gov/learn/pathfinders/water-quality-data-pathfinder)
+* [NASA's LAADS (Level-1 and Atmosphere Archive & Distribution System)](https://ladsweb.modaps.eosdis.nasa.gov/search/order/4/CLDPROP_L2_MODIS_Aqua--5111/2021-09-17..2021-10-01/DB/Site:300,376)
+* [Sentinel 2 info](https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
 * [Sentinel 2 satellite imagery Article](https://medium.com/eelab/how-to-rank-the-most-polluted-water-body-in-city-using-sentinel-2-satellite-imagery-via-google-792685105bfd)
+* [Sentinel 2 Technical Guide](https://sentinel.esa.int/web/sentinel/technical-guides/sentinel-2-msi)
 * [European Space Agency Sentinel-2 L1 images Collection](https://discovery.creodias.eu/dataset/sentinel-2-l1-collection)
+* [European Space Agency - Sentinel Data Access Overview](https://sentinel.esa.int/web/sentinel/sentinel-data-access)
 * [IBM Cloud](https://www.ibm.com/cloud)
 * [Watson Studio](https://www.ibm.com/cloud/watson-studio)
 * [Watson Machine Learning](https://www.ibm.com/br-pt/cloud/machine-learning)
@@ -125,6 +132,7 @@ You can check more details at: https://pure-74236.web.app/home
 ## About us
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
+* [Pricila Sales](https://github.com/pricilanogueira), UX/UI Designer
 * [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 * [Pedro Ivo](https://github.com/P-dro), IT Specialist
