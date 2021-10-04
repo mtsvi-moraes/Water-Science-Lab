@@ -1,0 +1,44 @@
+<div class="container-home">
+    <p class="prototype-header">This is a prototype with no real data</p>
+    <header>
+        <img src="../../assets/images/Logo_Pure.svg" alt="logo" class="logo">
+    </header>
+    <section class="section-box">
+        <form [formGroup]="queryRegionForm">
+            <div>
+                <h3 class="section-title">Pure shows you the water quality in the region where you live</h3>
+            </div>
+            <div class="styled-select">
+                <label>Country</label>
+                <select id="ddlProducts" class="btn-drop-down" name="country" formControlName="countryFormControl">
+                    <option value="" selected data-default>Select a country</option>
+                    <option *ngFor="let country of countriesData" [value]="country.name">{{country.name}}</option>
+                </select>
+                <div *ngIf="queryRegionForm.controls.countryFormControl.invalid && (queryRegionForm.controls.countryFormControl.dirty || queryRegionForm.controls.countryFormControl.touched)"
+                    class="form-invalid">
+                    <small>The field 'country' cannot be empty</small>
+                </div>
+            </div>
+            <div class="styled-select">
+                <label>State</label>
+                <select id="ddlProducts" class="btn-drop-down" name="stateRgion" formControlName="stateFormControl">
+                    <option value="" selected data-default>Select a state</option>
+                    <option *ngFor="let state of selectCities(queryRegionForm.value.countryFormControl ) "
+                        [value]="state.name">{{state.name}}</option>
+                </select>
+                <div *ngIf="queryRegionForm.controls.stateFormControl.invalid && (queryRegionForm.controls.stateFormControl.dirty || queryRegionForm.controls.stateFormControl.touched)"
+                    class="form-invalid">
+                    <small>The field 'state' cannot be empty</small>
+                </div>
+            </div>
+            <div style="margin-top: 25px;">
+                <button class="btn-search" mat-raised-button (click)="searchRegion()">Search</button>
+            </div>
+        </form>
+    </section>
+
+
+</div>
+<footer>
+    <p class="photography">photografy by Jackson Hendry</p>
+</footer>
