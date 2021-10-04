@@ -8,7 +8,7 @@ To learn more about our project and check the water quality, please visit: https
 
 You can also check our presentation on YouTube by clicking on the image below:
 
-[![capa_pure](/images/capa_pure.jpeg)](https://youtu.be/qcbrNMZhIL4)
+[![capa_pure](/images/capa_pure.jpeg)](https://www.youtube.com/watch?v=7esA616AtBg)
 
 
 ## Description:
